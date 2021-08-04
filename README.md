@@ -10,5 +10,5 @@ A Chrome extension to show the British Standard Time easily.
 5. Click on 'Pack extension'.
 
 
-Feel free to change the location in the toLocaleDateString and toLocateTimeString functions according to your system's lcoation by checking this link:
+Feel free to change the location and format in the toLocaleDateString and toLocateTimeString functions according to your system's lcoation by checking this link:
 https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
